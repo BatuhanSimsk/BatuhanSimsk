@@ -3,8 +3,6 @@
 ### I am currently a Computer Engineering student at <a href="https://btu.edu.tr/en">Bursa Technical University</a> . 
 
 
-<br /> 
-<br />
 
 ### Reach out to me:
 
@@ -12,19 +10,28 @@
 
 [Linkedin]: https://www.linkedin.com/batuhansimsek
 
-
-
 ### Techs and languages that i used before:
 
-<img height="48" width="48" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" alignment = left  />
-<img height="48" width="48" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" alignment = left  />
-<img height="48" width="48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alignment = left  />
-<img height="48" width="48" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alignment = left  />
+<img height="48" width="48" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" alignment = left  /> <img height="48" width="48" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" alignment = left  /> <img height="48" width="48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alignment = left  /> <img height="48" width="48" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alignment = left  />
+
+
+<br> 
 
 
 
 
-<br> <br> <br>
+### My Projects
+
+<a href="https://github.com/BatuhanSimsk/DS-Student-Management-System">Doubly Linked List Student Management System</a>
+
+<a href="https://github.com/BatuhanSimsk/Java-Banka-Uygulamasi-Projesi">Java Bank Application</a>
+
+<a href="https://github.com/BatuhanSimsk/HBG-Computational-Genome-Analysis-2021-Spring-Project">Computational Genome Analysis Project</a>
+
+<a href="https://github.com/BatuhanSimsk/Algorithm_and_Programming_Project">NLP Project</a>
+
+
+<br>
 
 <details>
     <summary> Github Stats</summary> 
@@ -32,11 +39,10 @@
 
 <img src = "https://github-readme-stats.vercel.app/api?username=batuhansimsk&theme=tokyonight"  /> 
 
-<br> <br> <br>
-
+<br> 
 <details>
     <summary> 
-        Most Used Languages
+        Most Used Languages 
     </summary>
 </details>
 
